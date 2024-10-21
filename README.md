@@ -14,9 +14,7 @@ int main() {
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
 
 ![OS](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![OS](https://img.shields.io/badge/-macOS-000?&logo=apple)

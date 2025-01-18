@@ -25,6 +25,7 @@ int main() {
 ![Espressif](https://img.shields.io/badge/-Espressif-000?&logo=Espressif)
 ![STMicroelectronics](https://img.shields.io/badge/-STMicroelectronics-000?&logo=STMicroelectronics)
 ![Segger](https://img.shields.io/badge/-Segger-000?&logo=Segger)
+![Zephyr](https://img.shields.io/badge/-Zephyr-000?&logo=Zephyr)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)

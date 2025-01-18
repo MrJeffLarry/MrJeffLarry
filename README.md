@@ -15,10 +15,16 @@ int main() {
 ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)
 ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=Rust)
+![swift](https://img.shields.io/badge/-swift-000?&logo=swift)
 
 ![OS](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![OS](https://img.shields.io/badge/-macOS-000?&logo=apple)
 
+![KiCad](https://img.shields.io/badge/-KiCad-000?&logo=KiCad)
+![FreeCad](https://img.shields.io/badge/-FreeCad-000?&logo=FreeCad)
+![Espressif](https://img.shields.io/badge/-Espressif-000?&logo=Espressif)
+![STMicroelectronics](https://img.shields.io/badge/-STMicroelectronics-000?&logo=STMicroelectronics)
+![Segger](https://img.shields.io/badge/-Segger-000?&logo=Segger)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
